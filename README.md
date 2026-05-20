@@ -23,7 +23,7 @@ This lab focuses on configuring a routed network using static IP addressing and 
 # PC Addressing Table 
 <img width="712" height="262" alt="image" src="https://github.com/user-attachments/assets/55fe17b0-c70a-47c1-b533-02e29e9130e8" />
 
-#Router Interface Table Breakdown
+# Router Interface Table Breakdown
 <img width="706" height="360" alt="image" src="https://github.com/user-attachments/assets/af228d70-687d-483a-a3f8-90b4d1594db4" />
 
 ---
