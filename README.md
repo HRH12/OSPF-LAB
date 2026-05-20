@@ -29,6 +29,7 @@ This lab focuses on configuring a routed network using static IP addressing and 
 ---
 
 # Verification Tools 
+<img width="867" height="450" alt="image" src="https://github.com/user-attachments/assets/7ad116ec-04f6-4c63-b978-5c04ca3ad58c" />
 
 ```bash
 show ip interface brief
